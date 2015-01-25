@@ -1,0 +1,15 @@
+{
+  "name": "chipersoft-kalendae",
+  "homepage": "https://github.com/ChiperSoft/Kalendae",
+  "version": "0.5.0",
+  "_release": "0.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.5.0",
+    "commit": "2ce88b76c529c5399d814218cc7a658b98f3c4de"
+  },
+  "_source": "git://github.com/ChiperSoft/Kalendae.git",
+  "_target": "~0.5.0",
+  "_originalSource": "chipersoft-kalendae",
+  "_direct": true
+}
