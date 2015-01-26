@@ -14,6 +14,8 @@
 			<ul class="nav navbar-nav navbar-right">
 				<li> <!-- class="active" --><a href="index">Home</a></li>
 				<li><a href="progetto">Progetto</a></li>
+				
+<!--
 				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Mappe</a>
 					<ul class="dropdown-menu">
 						<li><a href="artigiani">Artigiani</a></li>
@@ -22,6 +24,8 @@
 						<li><a href="agenda">Eventi</a></li>
 					</ul>
 				</li>
+-->
+
 <!--
 				<li><a href="http://blog.m-app.eu">NEWS</a></li>
 -->
