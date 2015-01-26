@@ -15,7 +15,7 @@ Route::get('/', 'HomeController@index');
 Route::get('/home', 'HomeController@index');
 Route::get('/index', 'HomeController@index');
 
-Route::get('/map', 'HomeController@map');
+Route::get('/map', 'HomeController@mapMobile');
 Route::get('/map.mobile', 'HomeController@mapMobile');
 
 Route::get('/agenda', 'HomeController@agenda');
