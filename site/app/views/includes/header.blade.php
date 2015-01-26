@@ -14,7 +14,7 @@
 			<ul class="nav navbar-nav navbar-right">
 				<li> <!-- class="active" --><a href="index">Home</a></li>
 				<li><a href="progetto">Progetto</a></li>
-				
+
 <!--
 				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Mappe</a>
 					<ul class="dropdown-menu">
@@ -31,7 +31,7 @@
 -->
 				<li><a href="http://mappuglia.tumblr.com">Attività</a></li>
 				<li><a href="partners">Partner</a></li>
-				<li><a href="contatti">Contatti</a></li>
+				<li><a href="contatti">Chi siamo</a></li>
 				<li><a href="dev">Sviluppatori</a></li>
 <!--
 				<li><a href="http://old.m-app.eu">OLD SITE</a></li>
