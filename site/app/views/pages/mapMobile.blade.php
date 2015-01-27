@@ -17,9 +17,9 @@
 	<link rel="stylesheet" href="bower_components/leaflet.markercluster/dist/MarkerCluster.Default.css" />
 
 	<link rel="stylesheet" href="bower_components/L.GeoSearch/src/css/l.geosearch.css" />
-	
+
 	<link rel="stylesheet" href="bower_components/leaflet-sidebar/src/L.Control.Sidebar.css" />
-	
+
 	<link href="css/style.css" rel="stylesheet">
 
 	<style>
@@ -35,11 +35,11 @@
 		.navbar {
 			margin-bottom: 0;
 		}
-		
+
 	</style>
 </head>
 <body>
-	
+
 	<!--
 	include('includes.header', array('type'=>'static'))
 	-->
@@ -51,7 +51,7 @@
 			</button>
 			<a class="navbar-brand" href="index"><img style="max-width:100px; margin-top: -7px;" src="img/mapp_white.svg" alt="mapp"></a>
 		</div>
-		
+
 		<div class="navbar-collapse collapse">
 			<form class="navbar-form navbar-right" role="search">
 				<div class="form-group has-feedback navbar-right">
@@ -59,7 +59,7 @@
 					<span id="searchicon" class="fa fa-search form-control-feedback"></span>
 				</div>
 			</form>
-		
+
 			<ul class="nav navbar-nav">
 				<li>
 					<a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" data-sidebar>
@@ -69,7 +69,7 @@
 		</div>
 		<!--/.navbar-collapse -->
 	</div>
-	
+
 	<div id="sidebar" class="sidebar">
 		<div class="row">
 			<div class="col-md-12">
@@ -99,14 +99,14 @@
 
 	<script src="bower_components/es5-shim/es5-shim.min.js"></script>
 	<script src="bower_components/es5-shim/es5-sham.min.js"></script>
-	
+
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="bower_components/jquery/dist/jquery.min.js"></script>
 	<!-- Include all compiled plugins (below), or include individual files as needed -->
 	<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-	
+
 	<script data-main="map.mobile.js" src="bower_components/requirejs/require.js"></script>
-	
+
 	<script src="js/analytics.js"></script>
 </body>
 </html>

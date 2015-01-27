@@ -112,12 +112,12 @@ function randomPicture($dir = 'img/sfondi/foto/')
 
                 <div class="form-group clearfix">
                   <label for="cc-nome">Nome della Entità o dell'Evento:</label>
-                  <input type="text" class="form-control" id="cc-nome" placeholder="Nome della Entità o dell'Evento"/>
+                  <input type="text" class="form-control cc-nome" id="cc-nome" placeholder="Nome della Entità o dell'Evento"/>
                 </div>
 
                 <div class="form-group btn-group btn-input clearfix dropdown">
                   <label for="cc-tipo">Tipologia:</label>
-                  <button type="button" class="form-control btn btn-default dropdown-toggle" id="cc-tipo" data-toggle="dropdown">
+                  <button type="button" class="form-control btn btn-default dropdown-toggle cc-tipo" id="cc-tipo" data-toggle="dropdown">
                     <span data-bind="label">Tipologia</span>
                     <span class="caret"></span>
                   </button>
@@ -142,10 +142,17 @@ function randomPicture($dir = 'img/sfondi/foto/')
 
                 <div class="form-group clearfix">
                   <label for="cc-descrizione">Descrizione:</label>
-                  <textarea class="form-control" id="cc-descrizione" rows="3" placeholder=""></textarea>
+                  <textarea class="form-control cc-descrizione" id="cc-descrizione" rows="3" placeholder=""></textarea>
                 </div>
 
-                <button type="submit" class="btn btn-default">Invia</button>
+                <div class="form-group clearfix">
+                  <label for="cc-contributor">Contatto:</label>
+                  <input type="email" class="form-control cc-contributor" id="cc-contributor" placeholder="Indirizzo E-mail">
+                </div>
+
+                <div id="cc-alert" class="alert alert-danger hidden cc-alert">Attenzione: dati non validi</div>
+
+                <button type="submit" class="btn btn-default cc-invia">Invia</button>
 
             </div>
           </div>
