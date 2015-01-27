@@ -1,7 +1,7 @@
 @extends('master')
 
 <?php
-function randomPicture($dir = 'img/sfondi/foto/')
+function randomPicture($dir = 'img/sfondi/cri/')
 {
     $files = glob($dir . '/*.jpg');
     $file = array_rand($files);
