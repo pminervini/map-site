@@ -46,6 +46,15 @@
       collettivi di coesione e cooperazione rivolti ad Istituti Scolastici e/o di assistenza sociale, per favorire la sperimentazione didattica
       e l’integrazione di minori, anziani, diversamente abili, attraverso attività laboratoriali organizzate sui temi delle tradizioni locali.
     </p>
+
+    <p>
+      La mappa è disponibile a <a href="/map">questo link</a>. <br />
+      Scarica la nostra app per dispositivi Android! <br />
+      <a href="https://play.google.com/store/apps/details?id=com.neuralnoise.mapp">
+        <img alt="Get it on Google Play"
+        src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+      </a>
+    </p>
   </div>
 
 </div>
