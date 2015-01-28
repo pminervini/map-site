@@ -37,7 +37,7 @@
 							</section>
 -->
 							<section class="col-md-4 col-xs-4">
-								<a class="wordpress" href="https://blog.m-app.eu"><i class="fa fa-wordpress fa-3x"></i> </a>
+								<a class="wordpress" href="http://blog.m-app.eu"><i class="fa fa-wordpress fa-3x"></i> </a>
 							</section>
 							<section class="col-md-4 col-xs-4">
 								<a class="android" href="https://play.google.com/store/apps/details?id=com.neuralnoise.mapp"><i class="fa fa-android fa-3x"></i> </a>
