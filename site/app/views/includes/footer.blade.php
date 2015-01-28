@@ -9,6 +9,23 @@
 				<div class="row text-center">
 					<section class="col-md-2 footer-one">
 						<div class="row text-center">
+							<section class="col-md-4 col-xs-4">
+								<a class="facebook" href="https://www.facebook.com/map.puglia"><i class="fa fa-facebook-square fa-3x"></i> </a>
+							</section>
+							<section class="col-md-4 col-xs-4">
+								<a class="twitter" href="https://twitter.com/MapPuglia"><i class="fa fa-twitter-square fa-3x"></i> </a>
+							</section>
+							<section class="col-md-4 col-xs-4">
+								<a class="tumblr" href="https://mappuglia.tumblr.com"><i class="fa fa-tumblr-square fa-3x"></i> </a>
+							</section>
+<!--
+							<section class="col-md-3 col-xs-3">
+								<a class="wordpress" href="https://blog.m-app.eu"><i class="fa fa-wordpress fa-3x"></i> </a>
+							</section>
+-->
+						</div>
+						<div class="row text-center">
+<!--
 							<section class="col-md-3 col-xs-3">
 								<a class="facebook" href="https://www.facebook.com/map.puglia"><i class="fa fa-facebook-square fa-3x"></i> </a>
 							</section>
@@ -18,8 +35,15 @@
 							<section class="col-md-3 col-xs-3">
 								<a class="tumblr" href="https://mappuglia.tumblr.com"><i class="fa fa-tumblr-square fa-3x"></i> </a>
 							</section>
-							<section class="col-md-3 col-xs-3">
+-->
+							<section class="col-md-4 col-xs-4">
+								<a class="wordpress" href="https://blog.m-app.eu"><i class="fa fa-wordpress fa-3x"></i> </a>
+							</section>
+							<section class="col-md-4 col-xs-4">
 								<a class="android" href="https://play.google.com/store/apps/details?id=com.neuralnoise.mapp"><i class="fa fa-android fa-3x"></i> </a>
+							</section>
+							<section class="col-md-4 col-xs-4">
+								<a class="apple" href="#"><i class="fa fa-apple fa-3x"></i> </a>
 							</section>
 						</div>
 					</section>
