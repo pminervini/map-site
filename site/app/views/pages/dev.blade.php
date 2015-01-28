@@ -21,10 +21,13 @@
 
     <li>
       <p>
-        <b>Linked Open Data:</b> <br/> Tutti i dati della knowledge base del progetto <b>m|app</b> sono fruibili come
+        <b>Linked Open Data:</b> <br/> Tutti i dati della knowledge base del progetto <b>m|app</b> sono fruibili sia attraverso delle API REST, sia come
         <a href="http://en.wikipedia.org/wiki/Linked_open_data">Linked Open data</a>, ed interrogabili utilizzando
         il linguaggio di interrogazione <a href="http://it.wikipedia.org/wiki/SPARQL">SPARQL</a>. <br />
-        Interroga il <a href="/sparql">nostro SPARQL Endpoint</a>!
+        Interroga il <a href="/sparql">nostro SPARQL Endpoint</a>!<br /><br />
+
+        Esempio di utilizzo delle nostre API REST:
+        <center><img style="width:75%;" src="img/dev/shot_rest.png" class="img-rounded"></center>
       </p>
     </li>
 
