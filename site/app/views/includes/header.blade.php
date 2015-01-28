@@ -7,7 +7,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" rel="home" href="index"><img style="max-width:100px; margin-top: -7px;" src="img/mapp_white.svg" alt="mapp"> [open beta]</a>
+			<a class="navbar-brand" rel="home" href="index"><img style="max-width:100px; margin-top: -7px;" src="img/mapp_white.svg" alt="mapp"> {open beta}</a>
 		</div>
 
 		<div class="collapse navbar-collapse navbar-ex1-collapse" role="navigation">
