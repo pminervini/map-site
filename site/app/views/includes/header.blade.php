@@ -33,7 +33,7 @@
 				<li><a href="http://mappuglia.tumblr.com">Attività</a></li>
 				<li><a href="partners">Partner</a></li>
 				<li><a href="contatti">Chi siamo</a></li>
-				<li><a href="dev">Sviluppatori</a></li>
+				<li><a href="dev">Dev</a></li>
 <!--
 				<li><a href="http://old.m-app.eu">OLD SITE</a></li>
 -->

@@ -21,7 +21,7 @@
 
     <li>
       <p>
-        <b>Linked Open Data:</b> <br/> Tutti i dati della knowledge base del progetto M/APP sono fruibili come
+        <b>Linked Open Data:</b> <br/> Tutti i dati della knowledge base del progetto <b>m|app</b> sono fruibili come
         <a href="http://en.wikipedia.org/wiki/Linked_open_data">Linked Open data</a>, ed interrogabili utilizzando
         il linguaggio di interrogazione <a href="http://it.wikipedia.org/wiki/SPARQL">SPARQL</a>. <br />
         Interroga il <a href="/sparql">nostro SPARQL Endpoint</a>!
@@ -30,7 +30,7 @@
 
     <li>
       <p>
-        <b>Free/Libre Open Source Software:</b> <br/> Tutto il software creato per il progetto M/APP, dalla base di conoscenza geo-spaziale interrogabile via API REST alla app per Android/iOS, è disponibile
+        <b>Free/Libre Open Source Software:</b> <br/> Tutto il software creato per il progetto <b>m|app</b>, dalla base di conoscenza geo-spaziale interrogabile via API REST alla app per Android/iOS, è disponibile
         con licenza <a href="http://www.creativecommons.it/">Creative Commons</a> su <a href="https://github.com/pminervini/">GitHub</a>. <br />
 
         In particolare, sono disponibili i codici sorgenti per:
