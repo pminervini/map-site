@@ -38,7 +38,7 @@ function randomPicture($dir = 'img/sfondi/cri/')
 		<div class="col-md-4">
 			<div class="feature-circle"><a href="map.mobile"><i class="fa fa-eye fa-5x"></i></a></div>
 			<h2>Scopri il Progetto</h2>
-			<p>M|App si occupa di individuare e censire le attività artigianali tradizionali in Puglia. Scopri di che si tratta!</p>
+			<p><b>m|app</b> si occupa di individuare e censire le attività artigianali tradizionali in Puglia. Scopri di che si tratta!</p>
 		</div>
 
 		<!-- /.col-lg-4 -->

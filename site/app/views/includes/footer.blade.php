@@ -9,14 +9,17 @@
 				<div class="row text-center">
 					<section class="col-md-2 footer-one">
 						<div class="row text-center">
-							<section class="col-md-4 col-xs-4">
+							<section class="col-md-3 col-xs-3">
 								<a class="facebook" href="https://www.facebook.com/map.puglia"><i class="fa fa-facebook-square fa-3x"></i> </a>
 							</section>
-							<section class="col-md-4 col-xs-4">
+							<section class="col-md-3 col-xs-3">
 								<a class="twitter" href="https://twitter.com/MapPuglia"><i class="fa fa-twitter-square fa-3x"></i> </a>
 							</section>
-							<section class="col-md-4 col-xs-4">
-								<a class="twitter" href="https://mappuglia.tumblr.com"><i class="fa fa-tumblr-square fa-3x"></i> </a>
+							<section class="col-md-3 col-xs-3">
+								<a class="tumblr" href="https://mappuglia.tumblr.com"><i class="fa fa-tumblr-square fa-3x"></i> </a>
+							</section>
+							<section class="col-md-3 col-xs-3">
+								<a class="android" href="https://play.google.com/store/apps/details?id=com.neuralnoise.mapp"><i class="fa fa-android fa-3x"></i> </a>
 							</section>
 						</div>
 					</section>

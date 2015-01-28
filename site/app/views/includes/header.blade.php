@@ -29,6 +29,7 @@
 <!--
 				<li><a href="http://blog.m-app.eu">NEWS</a></li>
 -->
+				<li><a href="http://blog.m-app.eu">Diario</a></li>
 				<li><a href="http://mappuglia.tumblr.com">Attività</a></li>
 				<li><a href="partners">Partner</a></li>
 				<li><a href="contatti">Chi siamo</a></li>

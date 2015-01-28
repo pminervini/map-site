@@ -49,10 +49,11 @@
 
     <p>
       La mappa è disponibile a <a href="/map">questo link</a>. <br />
-      Scarica la nostra app per dispositivi Android! <br />
+      Scarica la nostra app per dispositivi Android! <br /> <br />
       <a href="https://play.google.com/store/apps/details?id=com.neuralnoise.mapp">
         <img alt="Get it on Google Play"
-        src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+        srcx="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png"
+        src="img/app/play.png"/>
       </a>
     </p>
   </div>
