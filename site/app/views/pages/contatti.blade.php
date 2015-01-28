@@ -119,13 +119,13 @@
         </li>
         <li>
           <p>
-            <a href="http://issuu.com/nicolaustour/docs/giornalino_fly_artisaissuu_small">Recensione sulla rivista FlyApulia</a> di Giugno 2014
+            <a href="http://issuu.com/nicolaustour/docs/giornalino_fly_artisaissuu_small">Recensione sulla rivista FlyApulia</a> del Giugno 2014
             <center><img style="width:75%;" src="rassegna/36_37_FlyApulia.jpg" class="img-rounded"></center>
           </p>
         </li>
-        <li><a href="http://www.magyoumagazine.it/mestieri-e-arte-popolare-pugliese-con-mapp/">Articolo di Mariangela Alicino su MAG YOU n. 2</a> del 2 novembre 2014</li>
+        <li><a href="http://www.magyoumagazine.it/mestieri-e-arte-popolare-pugliese-con-mapp/">Articolo di Mariangela Alicino su MAG YOU n. 2</a> del 2 Novembre 2014</li>
         <li>Ascolta lo speciale di Buena Radio Social Club di <a href="http://www.radioluogocomune.com/">Radioluogocomune</a> sul progetto m|app -
-          <a href="http://www.radioluogocomune.com/player/share.php?show=1123&fbrefresh=879547863">Intervista a Rosanna Rizzi</a> con Valerio Vetturi e Giorgio Sardone - gennaio 2015</li>
+          <a href="http://www.radioluogocomune.com/player/share.php?show=1123&fbrefresh=879547863">Intervista a Rosanna Rizzi</a> con Valerio Vetturi e Giorgio Sardone del Gennaio 2015</li>
         </ul>
       </p>
     </div>
