@@ -113,7 +113,7 @@
       <ul>
         <li>
           <p>
-            <a href="rassegna/corrieremezzogiorno15122013_low.jpg">Articolo di Marilena Di Tursi</a> sul Corriere del Mezzogiorno del - Dicembre 2013<br />
+            <a href="rassegna/corrieremezzogiorno15122013_low.jpg">Articolo di Marilena Di Tursi</a> sul Corriere del Mezzogiorno - Dicembre 2013<br />
             <center><img style="width:75%;" src="rassegna/corrieremezzogiorno15122013_low.jpg" class="img-rounded"></center>
           </p>
         </li>
