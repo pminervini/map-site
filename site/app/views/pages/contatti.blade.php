@@ -35,26 +35,6 @@
   <div id="title">
     <div class="container">
       <div class="section_header">
-        <h3>Parlano di noi</h3>
-      </div>
-    </div>
-  </div>
-
-  <div class="row">
-    <p>
-      <ul>
-        <li><a href="rassegna/corrieremezzogiorno15122013_low.jpg">Articolo di Marilena Di Tursi</a> sul Corriere del Mezzogiorno del 15 Dicembre 2013</li>
-        <li><a href="http://issuu.com/nicolaustour/docs/giornalino_fly_artisaissuu_small">Recensione sulla rivista FlyApulia</a> di Giugno 2014</li>
-        <li><a href="http://www.magyoumagazine.it/mestieri-e-arte-popolare-pugliese-con-mapp/">Articolo di Mariangela Alicino su MAG YOU n. 2</a> del 2 novembre 2014</li>
-        <li>Ascolta lo speciale di Buena Radio Social Club di <a href="http://www.radioluogocomune.com/">Radioluogocomune</a> sul progetto m|app -
-            <a href="http://www.radioluogocomune.com/player/share.php?show=1123&fbrefresh=879547863">Intervista a Rosanna Rizzi</a> con Valerio Vetturi e Giorgio Sardone - gennaio 2015</li>
-      </ul>
-    </p>
-  </div>
-
-  <div id="title">
-    <div class="container">
-      <div class="section_header">
         <h3>Soci Fondatori</h3>
       </div>
     </div>
@@ -94,19 +74,13 @@
 
   </div>
 
+<!--
   <div id="title">
     <div class="container">
       <div class="section_header">
         <h4><a href="content/STATUTO_MAPP.pdf">Statuto della Associazione</a></h4>
       </div>
     </div>
-  </div>
-
-<!--
-  <div class="row">
-    <p>
-      <a href="content/STATUTO_MAPP.pdf">link</a>
-    </p>
   </div>
 -->
 
@@ -120,10 +94,41 @@
 
   <div class="row">
     <p>
+      Consulta lo <a href="content/STATUTO_MAPP.pdf">Statuto della Associazione</a>. <br />
       Scarica il <a href="content/MODULO_ISCRIZIONE_MAPP.pdf">modulo di iscrizione</a>, compilalo e invialo via e-mail all'indirizzo
       <a href="mailto:map.puglia@gmail.com">map.puglia@gmail.com</a>. Riceverai a breve conferma e scheda dell'Associazione.
     </p>
   </div>
+
+  <div id="title">
+    <div class="container">
+      <div class="section_header">
+        <h3>Parlano di noi</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <p>
+      <ul>
+        <li>
+          <p>
+            <a href="rassegna/corrieremezzogiorno15122013_low.jpg">Articolo di Marilena Di Tursi</a> sul Corriere del Mezzogiorno del 15 Dicembre 2013<br />
+            <center><img style="width:75%;" src="rassegna/corrieremezzogiorno15122013_low.jpg" class="img-rounded"></center>
+          </p>
+        </li>
+        <li>
+          <p>
+            <a href="http://issuu.com/nicolaustour/docs/giornalino_fly_artisaissuu_small">Recensione sulla rivista FlyApulia</a> di Giugno 2014
+            <center><img style="width:75%;" src="rassegna/36_37_FlyApulia.jpg" class="img-rounded"></center>
+          </p>
+        </li>
+        <li><a href="http://www.magyoumagazine.it/mestieri-e-arte-popolare-pugliese-con-mapp/">Articolo di Mariangela Alicino su MAG YOU n. 2</a> del 2 novembre 2014</li>
+        <li>Ascolta lo speciale di Buena Radio Social Club di <a href="http://www.radioluogocomune.com/">Radioluogocomune</a> sul progetto m|app -
+          <a href="http://www.radioluogocomune.com/player/share.php?show=1123&fbrefresh=879547863">Intervista a Rosanna Rizzi</a> con Valerio Vetturi e Giorgio Sardone - gennaio 2015</li>
+        </ul>
+      </p>
+    </div>
 
 </div>
 @stop
