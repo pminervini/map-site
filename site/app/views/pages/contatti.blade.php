@@ -94,7 +94,7 @@
 
   <div class="row">
     <p>
-      Consulta lo <a href="content/STATUTO_MAPP.pdf">Statuto della Associazione</a>. <br />
+      Consulta lo <a href="content/STATUTO_MAPP.pdf">Statuto di M/APP - Mestieri & Arte Popolare Pugliese</a>. <br />
       Scarica il <a href="content/MODULO_ISCRIZIONE_MAPP.pdf">modulo di iscrizione</a>, compilalo e invialo via e-mail all'indirizzo
       <a href="mailto:map.puglia@gmail.com">map.puglia@gmail.com</a>. Riceverai a breve conferma e scheda dell'Associazione.
     </p>
