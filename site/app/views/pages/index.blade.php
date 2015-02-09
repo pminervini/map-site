@@ -131,22 +131,22 @@ function randomPicture($dir = 'img/sfondi/cri/')
 
                 <div class="form-group clearfix">
                   <div class="col-xs-6">
-                    <label for="cc-inizio">Inizio:</label>
+                    <label for="cc-inizio">Inizio (opzionale):</label>
                     <input type="date" class="form-control cc-inizio">
                   </div>
                   <div class="col-xs-6">
-                    <label for="cc-termine">Termine:</label>
+                    <label for="cc-termine">Termine (opzionale):</label>
                     <input type="date" class="form-control cc-termine">
                   </div>
                 </div>
 
                 <div class="form-group clearfix">
-                  <label for="cc-descrizione">Descrizione:</label>
+                  <label for="cc-descrizione">Indirizzo e Descrizione:</label>
                   <textarea class="form-control cc-descrizione" id="cc-descrizione" rows="3" placeholder=""></textarea>
                 </div>
 
                 <div class="form-group clearfix">
-                  <label for="cc-contributor">Contatto:</label>
+                  <label for="cc-contributor">Contatto di chi segnala l'attività:</label>
                   <input type="email" class="form-control cc-contributor" id="cc-contributor" placeholder="Indirizzo E-mail">
                 </div>
 

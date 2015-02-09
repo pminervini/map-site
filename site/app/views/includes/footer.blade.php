@@ -43,7 +43,7 @@
 								<a class="android" href="https://play.google.com/store/apps/details?id=com.neuralnoise.mapp"><i class="fa fa-android fa-3x"></i> </a>
 							</section>
 							<section class="col-md-4 col-xs-4">
-								<a class="apple" href="#"><i class="fa fa-apple fa-3x"></i> </a>
+								<a class="apple" href="https://itunes.apple.com/it/app/id961449269"><i class="fa fa-apple fa-3x"></i> </a>
 							</section>
 						</div>
 					</section>
