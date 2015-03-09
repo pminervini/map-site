@@ -16,7 +16,7 @@
 								<a class="twitter" href="https://twitter.com/MapPuglia"><i class="fa fa-twitter-square fa-3x"></i> </a>
 							</section>
 							<section class="col-md-4 col-xs-4">
-								<a class="tumblr" href="https://mappuglia.tumblr.com"><i class="fa fa-tumblr-square fa-3x"></i> </a>
+								<a class="tumblr" href="http://mappuglia.tumblr.com"><i class="fa fa-tumblr-square fa-3x"></i> </a>
 							</section>
 <!--
 							<section class="col-md-3 col-xs-3">
