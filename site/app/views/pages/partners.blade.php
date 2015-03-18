@@ -27,7 +27,7 @@
     <div class="col-md-4">
       <center>
         <img src="p/rescaled/cna.png" />
-        <a href="http://www.cnapuglia.it>"><h4>Confederazione Nazionale dell'Artigianato e della Piccola e Media Impresa</h4></a>
+        <a href="http://www.cnapuglia.it"><h4>Confederazione Nazionale dell'Artigianato e della Piccola e Media Impresa</h4></a>
       </center>
     </div>
 
@@ -64,6 +64,15 @@
     </div>
 
   </div>
+
+  <div class="row">
+
+    <div class="col-md-12">
+      <center>
+        <img src="p/rescaled/pnam.png" />
+        <a href="http://www.parcoaltamurgia.gov.it/"><h4>Agricultura</h4></a>
+      </center>
+    </div>
 
   </div>
 

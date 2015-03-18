@@ -47,6 +47,7 @@
       e l’integrazione di minori, anziani, diversamente abili, attraverso attività laboratoriali organizzate sui temi delle tradizioni locali.
     </p>
 
+<!--
     <p>
       La mappa è disponibile a <a href="/map">questo link</a>. <br />
       Scarica la nostra app per dispositivi Android! <br /> <br />
@@ -56,6 +57,27 @@
         src="img/app/play.png"/>
       </a>
     </p>
+-->
+
+    <p>
+      La mappa è disponibile a <a href="/map">questo link</a>. <br />
+      Scarica la nostra app per dispositivi Android e iOS! <br /> <br />
+      <!--
+      <a href="https://play.google.com/store/apps/details?id=com.neuralnoise.mapp">
+        <img alt="Get it on Google Play"
+        srcx="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png"
+        src="img/app/play.png"/>
+      </a>
+      <a href="https://itunes.apple.com/it/app/id961449269">
+        <img alt="Get it on iTunes"
+        src="img/app/iTunes.png"/>
+      </a>
+      -->
+      <a class="android" href="https://play.google.com/store/apps/details?id=com.neuralnoise.mapp"><i class="fa fa-android fa-3x"></i> </a>
+      &nbsp;
+      <a class="apple" href="https://itunes.apple.com/it/app/id961449269"><i class="fa fa-apple fa-3x"></i> </a>
+    </p>
+
   </div>
 
 </div>
