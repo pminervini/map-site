@@ -70,7 +70,7 @@
     <div class="col-md-12">
       <center>
         <img src="p/rescaled/pnam.png" />
-        <a href="http://www.parcoaltamurgia.gov.it/"><h4>Agricultura</h4></a>
+        <a href="http://www.parcoaltamurgia.gov.it/"><h4>Parco Nazionale dell'Alta Murgia</h4></a>
       </center>
     </div>
 

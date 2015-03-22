@@ -43,24 +43,23 @@
   <div class="row">
 
     <p>
-      <b>Rosanna Rizzi</b> Laurea in Architettura presso il Politecnico di Bari, Master di II livello in Architettura del Paesaggio presso
-      l’Universitat Politecnica de Catalunya, Formazione specialistica in Diagnostica archeologica e archeologia preventiva presso
-      l’Università degli Studi di Foggia, collabora con il Dipartimento di Architettura del Politecnico di Bari dal 2011 come consulente
-      per la pianificazione riguardo la tutela del paesaggio e dei beni culturali.
+      <b>Rosanna Rizzi</b> Laureata in Architettura presso il Politecnico di Bari, Master di II livello in Architettura del Paesaggio
+      presso l’Universitat Politecnica de Catalunya, Formazione specialistica in Diagnostica archeologica e archeologia preventiva presso l’Università degli Studi di Foggia, collabora dal 2011 con il Dipartimento ICAR del Politecnico di
+      Bari come consulente per la pianificazione riguardo la tutela del paesaggio e dei beni culturali e con il Centro di Ricerca Interuniversitario per l’Analisi del Territorio - UNIBA.
+      <br />Contatti_<a href="mailto:rosanna.rizzi@gmail.com">rosanna.rizzi@gmail.com</a>
     </p>
 
     <p>
-      <b>Graziarosa S. Scaletta</b> Laurea in Architettura presso il Politecnico di Bari, iscritta all’Ordine degli Architetti, PP.PP.CC.
-      di Bari. Formazione professionale nell’ambito della tutela del territorio e degli allestimenti temporanei di interni ed esterni,
-      maturata durante un Master di livello in Exhibition Design (stand fieristici, mostre, eventi urbani) presso il Politecnico di Milano.
-      Si interessa alle attività culturali della propria regione e alle modalità rappresentative e divulgative.
+      <b>Graziarosa S. Scaletta</b> Laureata in architettura presso il Politecnico di Bari, Master di II livello in Exhibition Design presso il Politecnico di Milano.
+      Formazione nell’ambito degli allestimenti di mostre, fiere, musei ed eventi urbani e nell’ambito della grafica.
+      Collabora per la curatela e la gestione di eventi come freelance e con lo spazio espositivo MICROBA. Attualmente svolge anche attività di consulenza per la comunicazione e il marketing della Nicolaus Group srl – Ostuni.
+      <br />Contatti_<a href="mailto:arch.g.s.scaletta@gmail.com">arch.g.s.scaletta@gmail.com</a>
     </p>
 
     <p>
-      <b>Cristina Dicillo</b> Laurea in Architettura conseguita presso il Politecnico di Bari, iscritta all’Ordine degli Architetti, PP.PP.CC.
-      di Bari. Lavora nell’ambito dell’urbanistica e del progetto di paesaggio collaborando dal 2010 con il dipartimento ICAR del Politecnico
-      di Bari e con il dipartimento DiCEM dell’Unibas. Ph.D. dell’International Doctorate in ‘Architecture and Urban phenomenology’
-      dell’Università degli Studi della Basilicata.
+      <b>Cristina Dicillo</b> Laureata in Architettura presso il Politecnico di Bari, lavora nell’ambito dell’urbanistica e del progetto di paesaggio collaborando dal 2010 con il dipartimento ICAR del Politecnico di Bari e con il DiCEM
+      dell’Unibas. Ph.D. dell’International Doctorate in ‘Architecture and Urban phenomenology’ dell’Università degli Studi della Basilicata, è docente a contratto di Urbanistica del CdL in Architettura di Matera.
+      <br />Contatti_<a href="mailto:cris.dicillo@gmail.com">cris.dicillo@gmail.com</a>
     </p>
 
     <p>
@@ -70,6 +69,7 @@
       <a href="http://it.wikipedia.org/wiki/Apprendimento_automatico">Apprendimento Automatico</a>.
       Ha pubblicato in conferenze, riviste e workshop internazionali e nazionali, ed ha esperienza lavorativa e di ricerca presso aziende
       (Google Inc., spin-off dell’Università) ed enti di ricerca (Università degli Studi di Bari, Ludwig Maximilian University of Munich).
+      <br />Contatti_<a href="mailto:p.minervini@gmail.com">p.minervini@gmail.com</a>
     </p>
 
   </div>
